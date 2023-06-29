@@ -1,0 +1,64 @@
+{
+  "navbar": {
+    "home": "اHome",
+    "contact": "contact",
+    "services":"services",
+    "appTitle": "Mosul Guide",
+  },
+  "contact": {
+    "message": "message",
+    "email": "email",
+    "send": "send",
+    "messageContent": "your message..."
+  },
+  "home": {
+    "hero": {
+      "appTitle": "",
+    },
+    "about-section": {
+      "ourMission": "our Mission",
+      "missionText":"
+      It is a site specially designed to provide comprehensive and detailed information on archaeological sites in a particular area. The site aims to facilitate the experience of tourists and travelers who wish to explore and visit archaeological sites and learn about the history and culture of the places they visit.",
+    },
+    "trip": {
+
+    },
+
+    "trip-cards": {
+      "global-texts": {
+       
+      },
+      "tahra": {
+        
+      },
+      "baytna": {
+      
+      },
+      "bagdida-museum": {
+        
+      },
+      "torath": {
+        
+      },
+      "mart": {
+      
+      },
+      "aslaf": {
+        
+      },
+      "agh": {
+        
+      },
+      "redha": {
+      
+      },
+      "sheikh-bakr": {
+        
+      },
+      "sheikh-Hasan": {
+        
+      }
+    },
+    
+  },
+}

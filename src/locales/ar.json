@@ -1,0 +1,70 @@
+{
+  "navbar": {
+    "home": "الصفحة الرئيسية",
+    "contact": "تواصل معنا",
+    "services":"خدماتنا",
+    "appTitle": "دليل الموصل السياحي",
+  },
+  "contact": {
+    "message": "رسالة",
+    "email": "بريد إلكتروني",
+    "send": "إرسال",
+    "messageContent": "...رسالة"
+  },
+  "home": {
+    "hero": {
+      "appTitle": "دليل الموصل السياحي",
+    },
+    "about-section": {
+      "ourMission": "مهمتنا",
+      "missionText":"دليل الموصل السياحي هو موقع مصمم بشكل خاص لتوفير معلومات شاملة ومفصلة عن المواقع الأثرية في منطقة معينة. يهدف الموقع إلى تسهيل تجربة السياح والمسافرين الذين يرغبون في استكشاف وزيارة المواقع الأثرية والتعرف على تاريخ وثقافة الأماكن التي يزورونها.",
+    },
+    "trip": {
+      "reliability": "ثقة",
+      "motivation": "حماس",
+      "efficiency": "كفاءة",
+      "creativity": "إبداع",
+      "socialCommunication": "تواصل اجتماعي",
+      "valuableIdeas": "أفكار قيمة",
+      "experiences": "خبرات",
+      "friendlyCommunity": "مجتمع ودود"
+    },
+
+    "trip-cards": {
+      "global-texts": {
+       
+      },
+      "tahra": {
+        
+      },
+      "baytna": {
+      
+      },
+      "bagdida-museum": {
+        
+      },
+      "torath": {
+        
+      },
+      "mart": {
+      
+      },
+      "aslaf": {
+        
+      },
+      "agh": {
+        
+      },
+      "redha": {
+      
+      },
+      "sheikh-bakr": {
+        
+      },
+      "sheikh-Hasan": {
+        
+      }
+    },
+    
+  },
+}
